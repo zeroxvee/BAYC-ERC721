@@ -1,0 +1,27 @@
+{
+    "name": "bayc-erc721",
+    "private": true,
+    "version": "0.0.0",
+    "scripts": {},
+    "dependencies": {
+      "react": "^17.0.2",
+      "react-dom": "^17.0.2"
+    },
+    "devDependencies": {
+      "@nomiclabs/hardhat-ethers": "^2.0.5",
+      "@nomiclabs/hardhat-etherscan": "^3.0.1",
+      "@nomiclabs/hardhat-waffle": "^2.0.2",
+      "@openzeppelin/contracts": "^4.5.0",
+      "chai": "^4.3.6",
+      "dotenv": "^10.0.0",
+      "ethereum-waffle": "^3.4.0",
+      "ethers": "^5.5.4",
+      "hardhat": "^2.8.4",
+      "hardhat-gas-reporter": "^1.0.8",
+      "prettier": "^2.5.1",
+      "prettier-plugin-solidity": "^1.0.0-beta.13",
+      "solhint": "^3.3.7",
+      "solidity-coverage": "^0.7.20"
+    }
+  }
+  
